@@ -1,0 +1,8 @@
+//
+// Created by coren on 10/01/2024.
+//
+
+#ifndef CPLUSPLUSEXAM_KNNDOUBLE_H
+#define CPLUSPLUSEXAM_KNNDOUBLE_H
+
+#endif //CPLUSPLUSEXAM_KNNDOUBLE_H
